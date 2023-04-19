@@ -17,3 +17,5 @@ The second test should ensure the correct lifetime management for the scoped ser
 You MUST NOT change any type definitions.
 
 You MUST NOT change the test setup.
+
+You MAY change the test method signatures, e. g. make them `async`, return `Task` etc..
