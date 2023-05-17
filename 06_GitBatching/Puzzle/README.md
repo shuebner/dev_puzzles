@@ -1,6 +1,6 @@
 # Setting
 
-You have implemented a feature on a feature branch..
+You have implemented a feature on a feature branch of [this GIT repository](https://github.com/shuebner/dev_puzzle_06_source).
 You made granular atomic commits and thus have ~20 commits on your feature branch.
 You were so focused on your work that you forgot to follow your team's git commit message policy.
 
