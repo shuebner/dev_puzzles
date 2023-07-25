@@ -15,8 +15,12 @@ Which language feature would C# need to make the implementation simpler with les
 Everything MUST be type-safe.
 You MUST NOT use reflection.
 
+You MUST NOT change the signature of `Mapper`.
+
+You MAY add code to `Source` and `Target`.
+
 `Source` MUST NOT reference `Target`.
 
 `Target` MUST NOT reference `Source`.
 
-Bonus rule: the `Source.cs` and `Target.cs` _files_ should be changed as little as possible.
+Bonus rule: the `Source.cs` and `Target.cs` _files_ SHOULD be changed as little as possible.
