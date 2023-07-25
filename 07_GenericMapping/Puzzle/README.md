@@ -17,7 +17,7 @@ You MUST NOT use reflection.
 
 You MUST NOT change the signature of `Mapper`.
 
-You MAY add code to `Source` and `Target`.
+You MAY _add_ code to `Source.cs` and `Target.cs`.
 
 `Source` MUST NOT reference `Target`.
 
