@@ -24,3 +24,8 @@ You MAY _add_ code to `Source.cs` and `Target.cs`.
 `Target` MUST NOT reference `Source`.
 
 Bonus rule: the `Source.cs` and `Target.cs` _files_ SHOULD be changed as little as possible.
+
+# Hints
+
+There are hints available in the `Hints` directory.
+Each one should bring you one step closer to the solution.
