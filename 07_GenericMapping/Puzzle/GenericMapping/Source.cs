@@ -1,4 +1,4 @@
-﻿namespace TestProject1
+﻿namespace GenericMapping
 {
     public abstract class Source
     {

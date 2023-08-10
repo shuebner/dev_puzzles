@@ -1,6 +1,4 @@
-﻿using TestProject1;
-
-namespace GenericMapping
+﻿namespace GenericMapping
 {
     sealed class Mapper
     {

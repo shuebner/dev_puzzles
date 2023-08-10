@@ -1,6 +1,4 @@
-using GenericMapping;
-
-namespace TestProject1
+namespace GenericMapping
 {
     public class MapperTest
     {
