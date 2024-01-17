@@ -27,5 +27,5 @@ git remote remove RepoLib1
 
 git remote add RepoLib2 ../RepoLib2_temp
 git fetch RepoLib2
-git merge RepoLib2/main
+git merge --allow-unrelated-histories RepoLib2/main
 git remote remove RepoLib2
